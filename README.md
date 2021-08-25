@@ -1,11 +1,7 @@
 ```
 
                      
-                                       ____  _   _ _____ _     _     		 
-                                      / ___|| | | | ____| |   | |     
-                                      \___ \| |_| |  _| | |   | |     
-                                       ___) |  _  | |___| |___| |___  
-                                      |____/|_| |_|_____|_____|_____| 
+                                      --------------s----h---e--l----l
 									  
 
                                                                       
@@ -28,6 +24,3 @@
 * How to suspend the execution of a process until one of its children terminates
 * What is `EOF` / “end-of-file”?
 
-## Authors
-Edward Muss -Software Engineer - [Linkedin](https://www.linkedin.com/in/edwardmuss/) - [Website](https://edwardmuss.cloudrebue.co.ke)<br>
-Siphiwe Kayenda -Software Engineer - [Linkedin](https://www.linkedin.com/in/siphiwe-kanyenda-40043995/) - [Twitter](https://twitter.com/SiphiweKanyenda/)
